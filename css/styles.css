@@ -1,0 +1,76 @@
+.topContainer{
+  background-color: #FFC5F6;
+  position:relative;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family:"Merriweather",serif;
+
+}
+h1{
+  margin:0;
+  font-family: "Sacramento",cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: "Montserrat",sans-serif;
+  color:#66BFBF;
+}
+
+h3{
+  font-family: "Montserrat",serif;
+  color:#119993;
+}
+.topContainer{
+  padding-top: 100px;
+}
+
+img{
+  size:10%;
+}
+.one{
+  height:10%;
+  width: 10%;
+  background-color: #FFC5F6;
+  margin-left: 300px;
+  position:absolute;
+  right: 300px;
+  top:50px;
+}
+.two{
+  height:10%;
+  width:10%;
+  background-color:  #FFC5F6;
+  position: absolute;
+  left: 300px;
+}
+.three{
+  height:35%;
+  width:35%;
+  background-color:  #FFC5F6;
+  margin-top:35px;
+}
+.handsome{
+  height: 200px;
+  width: 200px;
+  margin-top: 30px;
+}
+.skill-image{
+  height:300px;
+  width:300px;
+}
+.sheep-image{
+  height: 300px;
+  width:300px;
+}
+.ayya{
+  font-style: sans;
+  color: #66BFBF;
+}
+.skill-row{
+  width: 50%;
+  margin:auto;
+}
